@@ -1,0 +1,12 @@
+C:\WS\C#\Agents\AgentSetup\AgentSetup\bin\Debug\AgentSetup.exe.config
+C:\WS\C#\Agents\AgentSetup\AgentSetup\bin\Debug\AgentSetup.exe
+C:\WS\C#\Agents\AgentSetup\AgentSetup\bin\Debug\AgentSetup.pdb
+C:\WS\C#\Agents\AgentSetup\AgentSetup\obj\Debug\AgentSetup.csproj.CoreCompileInputs.cache
+C:\WS\C#\Agents\AgentSetup\AgentSetup\obj\Debug\AgentSetup.exe
+C:\WS\C#\Agents\AgentSetup\AgentSetup\obj\Debug\AgentSetup.pdb
+C:\WS\C#\Agents\retarded\benaries\AgentSetup.exe.config
+C:\WS\C#\Agents\retarded\benaries\AgentSetup.exe
+C:\WS\C#\Agents\retarded\benaries\AgentSetup.pdb
+C:\WS\C#\Agents\retarded\benaries\net5.0\AgentSetup.exe.config
+C:\WS\C#\Agents\retarded\benaries\net5.0\AgentSetup.exe
+C:\WS\C#\Agents\retarded\benaries\net5.0\AgentSetup.pdb

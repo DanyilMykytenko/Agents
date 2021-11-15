@@ -1,0 +1,14 @@
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\bin\Debug\MusicalAgent.exe.config
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\bin\Debug\MusicalAgent.exe
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\bin\Debug\MusicalAgent.pdb
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\obj\Debug\MusicalAgent.csproj.CoreCompileInputs.cache
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\obj\Debug\MusicalAgent.exe
+C:\WS\C#\Agents\MusicalAgent\MusicalAgent\obj\Debug\MusicalAgent.pdb
+C:\WS\C#\Agents\retarded\benaries\MusicalAgent.exe.config
+C:\WS\C#\Agents\retarded\benaries\MusicalAgent.exe
+C:\WS\C#\Agents\retarded\benaries\MusicalAgent.pdb
+C:\WS\C#\Agents\retarded\benaries\joel.wav
+C:\WS\C#\Agents\retarded\benaries\net5.0\joel.wav
+C:\WS\C#\Agents\retarded\benaries\net5.0\MusicalAgent.exe.config
+C:\WS\C#\Agents\retarded\benaries\net5.0\MusicalAgent.exe
+C:\WS\C#\Agents\retarded\benaries\net5.0\MusicalAgent.pdb
